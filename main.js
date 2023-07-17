@@ -117,10 +117,10 @@ async function performSwap(chainName, sell, sellToken, buyToken) {
 
 // specify the data here
 const runData = {
-  chain: 'Fantom Opera',
+  chain: 'Arbitrum',
   sell: '12',
-  sellToken: 'FTM',
-  buyToken: 'fUSDT'
+  sellToken: 'WBTC',
+  buyToken: 'USDC'
 }
 
 
